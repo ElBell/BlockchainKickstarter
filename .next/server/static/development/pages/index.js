@@ -2174,23 +2174,23 @@ function (_Component) {
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_11__["default"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
         style: {
-          color: 'green'
+          color: 'white'
         },
-        className: "jsx-2402694861"
-      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("h3", {
-        className: "jsx-2402694861"
+        className: "jsx-1226269473"
+      }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("h2", {
+        className: "jsx-1226269473"
       }, "Open Campaigns"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_12__["Link"], {
         route: "/campaigns/new"
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("a", {
-        className: "jsx-2402694861"
+        className: "jsx-1226269473"
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Button"], {
         floated: "right",
         content: "Create Campaign",
         icon: "add circle",
         primary: true
       }))), this.renderCampaigns()), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
-        id: "2402694861"
-      }, "body{background:#000;font:11px menlo;color:#fff;}"));
+        id: "1226269473"
+      }, "body{background:radial-gradient(circle at 20% 20%,#004d00,#00264d);font:11px menlo;color:#fff;}"));
     }
   }], [{
     key: "getInitialProps",

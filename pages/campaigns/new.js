@@ -40,7 +40,7 @@ class CampaignNew extends Component {
 
         <Form onSubmit={this.onSubmit} error={!!this.state.errorMessage}>
           <Form.Field>
-            <label>Minimum Contribution</label>
+            <label style={{ color: 'white' }} >Minimum Contribution</label>
             <Input
               label="wei"
               labelPosition="right"
@@ -57,7 +57,7 @@ class CampaignNew extends Component {
         </Form>
         <style jsx global>{`
         body {
-        background: #000;
+        background: radial-gradient(circle at 20% 20%, #004d00, #00264d);
         font: 11px menlo;
         color: #fff;
       }

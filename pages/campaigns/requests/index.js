@@ -67,7 +67,7 @@ class RequestIndex extends Component {
         <div>Found {this.props.requestCount} requests.</div>
         <style jsx global>{`
         body {
-        background: #000;
+        background: radial-gradient(circle at 20% 20%, #004d00, #00264d);
         font: 11px menlo;
         color: #fff;
       }

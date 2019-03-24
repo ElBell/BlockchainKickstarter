@@ -33,33 +33,33 @@ class CampaignShow extends Component {
 
     const items = [
       {
-        header: manager,
-        meta: 'Address of Manager',
+        header: 'Address of Manager',
+        meta: manager,
         description:
           'The manager created this campaign and can create requests to withdraw money',
         style: { overflowWrap: 'break-word' }
       },
       {
-        header: minimumContribution,
-        meta: 'Minimum Contribution (wei)',
+        header: 'Minimum Contribution (wei)',
+        meta: minimumContribution,
         description:
           'You must contribute at least this much wei to become an approver'
       },
       {
-        header: requestsCount,
-        meta: 'Number of Requests',
+        header: 'Number of Requests',
+        meta: requestsCount,
         description:
           'A request tries to withdraw money from the contract. Requests must be approved by approvers'
       },
       {
-        header: approversCount,
-        meta: 'Number of Approvers',
+        header: 'Number of Approvers',
+        meta: approversCount,
         description:
           'Number of people who have already donated to this campaign'
       },
       {
-        header: web3.utils.fromWei(balance, 'ether'),
-        meta: 'Campaign Balance (ether)',
+        header: 'Campaign Balance (ether)',
+        meta: web3.utils.fromWei(balance, 'ether'),
         description:
           'The balance is how much money this campaign has left to spend.'
       }
@@ -93,7 +93,7 @@ class CampaignShow extends Component {
         </Grid>
         <style jsx global>{`
         body {
-        background: #000;
+        background: radial-gradient(circle at 20% 20%, #004d00, #00264d);
         font: 11px menlo;
         color: #fff;
       }

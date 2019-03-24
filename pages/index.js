@@ -31,8 +31,8 @@ class CampaignIndex extends Component {
   render() {
     return (
       <Layout>
-        <div style={{ color: 'green' }}>
-          <h3>Open Campaigns</h3>
+        <div style={{ color: 'white' }}>
+          <h2>Open Campaigns</h2>
 
           <Link route="/campaigns/new">
             <a>
@@ -48,7 +48,7 @@ class CampaignIndex extends Component {
         </div>
         <style jsx global>{`
         body {
-        background: #000;
+        background: radial-gradient(circle at 20% 20%, #004d00, #00264d);
         font: 11px menlo;
         color: #fff;
       }

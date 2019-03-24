@@ -291,7 +291,11 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Form"], {
         onSubmit: this.onSubmit,
         error: !!this.state.errorMessage
-      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Form"].Field, null, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("label", null, "Amount to Contribute"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Input"], {
+      }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Form"].Field, null, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("label", {
+        style: {
+          color: 'white'
+        }
+      }, "Amount to Contribute"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Input"], {
         value: this.state.value,
         onChange: function onChange(event) {
           return _this2.setState({
@@ -2364,27 +2368,27 @@ function (_Component) {
           requestsCount = _this$props.requestsCount,
           approversCount = _this$props.approversCount;
       var items = [{
-        header: manager,
-        meta: 'Address of Manager',
+        header: 'Address of Manager',
+        meta: manager,
         description: 'The manager created this campaign and can create requests to withdraw money',
         style: {
           overflowWrap: 'break-word'
         }
       }, {
-        header: minimumContribution,
-        meta: 'Minimum Contribution (wei)',
+        header: 'Minimum Contribution (wei)',
+        meta: minimumContribution,
         description: 'You must contribute at least this much wei to become an approver'
       }, {
-        header: requestsCount,
-        meta: 'Number of Requests',
+        header: 'Number of Requests',
+        meta: requestsCount,
         description: 'A request tries to withdraw money from the contract. Requests must be approved by approvers'
       }, {
-        header: approversCount,
-        meta: 'Number of Approvers',
+        header: 'Number of Approvers',
+        meta: approversCount,
         description: 'Number of people who have already donated to this campaign'
       }, {
-        header: _Ethereum_web3__WEBPACK_IMPORTED_MODULE_12__["default"].utils.fromWei(balance, 'ether'),
-        meta: 'Campaign Balance (ether)',
+        header: 'Campaign Balance (ether)',
+        meta: _Ethereum_web3__WEBPACK_IMPORTED_MODULE_12__["default"].utils.fromWei(balance, 'ether'),
         description: 'The balance is how much money this campaign has left to spend.'
       }];
       return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Card"].Group, {
@@ -2395,7 +2399,7 @@ function (_Component) {
     key: "render",
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_components_Layout__WEBPACK_IMPORTED_MODULE_10__["default"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("h3", {
-        className: "jsx-2402694861"
+        className: "jsx-1226269473"
       }, "Campaign Details"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Grid"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Grid"].Row, null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Grid"].Column, {
         width: 10
       }, this.renderCards()), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Grid"].Column, {
@@ -2405,12 +2409,12 @@ function (_Component) {
       }))), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Grid"].Row, null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Grid"].Column, null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_14__["Link"], {
         route: "/campaigns/".concat(this.props.address, "/requests")
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("a", {
-        className: "jsx-2402694861"
+        className: "jsx-1226269473"
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_9__["Button"], {
         primary: true
       }, "View Requests")))))), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_7___default.a, {
-        id: "2402694861"
-      }, "body{background:#000;font:11px menlo;color:#fff;}"));
+        id: "1226269473"
+      }, "body{background:radial-gradient(circle at 20% 20%,#004d00,#00264d);font:11px menlo;color:#fff;}"));
     }
   }], [{
     key: "getInitialProps",

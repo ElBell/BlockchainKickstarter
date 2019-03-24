@@ -51,7 +51,7 @@ class RequestNew extends Component {
         <h3>Create a Request</h3>
         <Form onSubmit={this.onSubmit} error={!!this.state.errorMessage}>
           <Form.Field>
-            <label>Description</label>
+            <label style={{ color: 'white' }}>Description</label>
             <Input
               value={this.state.description}
               onChange={event =>
@@ -61,7 +61,7 @@ class RequestNew extends Component {
 
 
           <Form.Field>
-            <label>Value in Ether</label>
+            <label style={{ color: 'white' }}>Value in Ether</label>
             <Input
               value={this.state.value}
               onChange={event => this.setState({ value: event.target.value })}
@@ -69,7 +69,7 @@ class RequestNew extends Component {
           </Form.Field>
 
           <Form.Field>
-            <label>Recipient</label>
+            <label style={{ color: 'white' }}>Recipient</label>
             <Input
               value={this.state.recipient}
               onChange={event =>
@@ -84,7 +84,7 @@ class RequestNew extends Component {
         </Form>
         <style jsx global>{`
         body {
-        background: #000;
+        background: radial-gradient(circle at 20% 20%, #004d00, #00264d);
         font: 11px menlo;
         color: #fff;
       }
