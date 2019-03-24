@@ -5,8 +5,7 @@
   "scripts": {
     "test": "mocha",
     "dev": "node server.js",
-    "build": "next build",
-    "start": "node server.js"
+    "build": "next build"
   },
   "author": "",
   "license": "ISC",
@@ -29,6 +28,9 @@
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "nyc": "^13.3.0"
+  },
   "description": ""
 }

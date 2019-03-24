@@ -5,17 +5,642 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/show.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/show.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/requests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/requests/new.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/static/development/pages/campaigns/show.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/server/static/development/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/static/development/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/development/pages/campaigns/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/development/pages/campaigns/new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/development/pages/campaigns/show.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/development/pages/campaigns/show.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/development/pages/campaigns/requests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/development/pages/campaigns/requests/new.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/development/pages/campaigns/show.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/development/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/development/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/runtime/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/runtime/webpack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ContributeForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ContributeForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/023208f9873252cfb4b8.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/03285add1cd57e0b598e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/0602be267e12d0c2905a.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/0a9b0e33adb705b9c26c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/1a5cb855c259177208ea.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/1dd6f2d4fa821d4ea1eb.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/2012714808c1afca54be.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/231d9680cf3553f92245.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/25f2f8a1e7cfa05868dd.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/2cce3c190bfa20fe8256.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/2d9aae1207ffd2ae8acc.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/307d78adf50f146b3e63.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/36f3ea4859fa5259e660.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/3827f6565ac53984d38c.hot-update.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/static/webpack/3827f6565ac53984d38c.hot-update.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/3bbf1c8716ab9bceb319.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/3e7d21413835cabb62eb.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/469ca614525b331ab77f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/47ae70bb3ebed49a956c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/4984d97cca677e77d73b.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/4c546f1ad7cc9b15c9c3.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/5332127ea9346fce3adf.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/535de7593b9ca3928752.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/56ba019b79a21f57c7d9.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/5721a26ef8445037d77c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/57a0aecd06f1c96ee91b.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/591071547bec70b6a268.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/5e0bec0495fb18afeada.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/5eb858b924ffa4f1ca76.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6009f7ce497e759bb72a.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/61c7fe237d4019813562.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/621a67e1fefe8b300d5d.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/62dd740feac4402a5820.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6373d8fbec5a06184fb6.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/64ae5f7a9511996f2bb3.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6bf62ae8a49d69f56d86.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6cb501eb53f6f2b5980c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6dcb768dee447a2c7cdc.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6de213de58ce09ff886e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/6eb4a62a1fb6c07bbc1f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/7399c80e0ba7567cb371.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/77c080db29999bdf609c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/7aad41671fedf6c841e7.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/805cf42f2379573b092e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/80658e98258f60ce2ff9.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/813767119540b0b53670.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/81beec4a902a685284a5.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/854cbb7f5698be39a24a.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/871c7e698f48d9f4f9d8.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/8c7f95db42b841298ffb.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/8e5c061f30901aa82180.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/95dadc071b315ac7394a.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/96e97e106536231f1d30.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/9d5303e10ee7848890db.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/9da7500680f0f5428eae.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/9e6b882c54c7da85f281.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/a0c54d16f886c3573f8a.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/a19b86beda83342c84bc.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/a55e70d44986d213620f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/a95765b13da9fe0513e1.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/aa346bec809fac4f281e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/aae3623533d0376278d4.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/b3c49c93a071fefc39f5.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/b74e15adc058a4619b0b.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/b870af02fbeac3a40192.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/bafa2678d0379f47666c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/bc8d3dbedce9538f4b68.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c17b18b96e784141c733.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c3e2829273eeb6172755.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c40dc02a7a986f08cd56.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c710c05105adceea2f7b.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c806a294b5f1264221bf.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c80d0b285b1146fdb930.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ca1d57a0dca0f42167df.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ca91b6053011ec577f03.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ce1bac0ede8a834663bc.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/cfe70958b77df45870ef.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/d306e0865f00d8b21bc4.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/d4f35b82c0beb7882d6f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/d956d8699aafd4f810a2.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/da0220325c2ca78de0c5.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/db71b35635be182f0bdc.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/db93e6d367dec073d87c.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ddca961562e5545a9843.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/e2d72d710fb1a3163ca4.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/e762dbee947e3b015be2.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/e7b21658c9c224e9b569.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/e9b951c06ccb950406f2.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ea90575354e4bfd9bc96.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/eaa1fd24c30f1249a356.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/eab9bfd391a6d0be0989.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ee65c8d486e78748fea7.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/ef4bb1a7784b956cd4f4.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f0119916c3a44ce38d34.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f0f5673ac748d3f03c89.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f510d03f0cfec58599a1.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f6a25d424d53fd6f0d2e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f6d1e1a7fd6e9b38406e.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f8d678d985206534a44b.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/f9bf7c10e3a1ede42f00.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/fc36a52e6a9c3663d70f.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/fce1eb7b02d1befbfcfa.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/fe8e93280bc9db3be512.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/new.js.25f2f8a1e7cfa05868dd.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/new.js.e7b21658c9c224e9b569.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/requests/new.js.d306e0865f00d8b21bc4.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.4c546f1ad7cc9b15c9c3.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.61c7fe237d4019813562.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.6373d8fbec5a06184fb6.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.7399c80e0ba7567cb371.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.7aad41671fedf6c841e7.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.8c7f95db42b841298ffb.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.9d5303e10ee7848890db.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.aa346bec809fac4f281e.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.aae3623533d0376278d4.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/campaigns/show.js.bc8d3dbedce9538f4b68.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.023208f9873252cfb4b8.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.1a5cb855c259177208ea.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.2012714808c1afca54be.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.2cce3c190bfa20fe8256.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.2d9aae1207ffd2ae8acc.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.36f3ea4859fa5259e660.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.469ca614525b331ab77f.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.47ae70bb3ebed49a956c.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.4984d97cca677e77d73b.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.535de7593b9ca3928752.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.56ba019b79a21f57c7d9.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.5721a26ef8445037d77c.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.5eb858b924ffa4f1ca76.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.6009f7ce497e759bb72a.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.621a67e1fefe8b300d5d.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.62dd740feac4402a5820.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.64ae5f7a9511996f2bb3.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.6bf62ae8a49d69f56d86.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.81beec4a902a685284a5.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.854cbb7f5698be39a24a.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.871c7e698f48d9f4f9d8.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.9e6b882c54c7da85f281.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.a19b86beda83342c84bc.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.b3c49c93a071fefc39f5.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.b870af02fbeac3a40192.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.bafa2678d0379f47666c.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.c40dc02a7a986f08cd56.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.c80d0b285b1146fdb930.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.ca91b6053011ec577f03.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.cfe70958b77df45870ef.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.d4f35b82c0beb7882d6f.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.d956d8699aafd4f810a2.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.da0220325c2ca78de0c5.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.db71b35635be182f0bdc.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.db93e6d367dec073d87c.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.ddca961562e5545a9843.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.e9b951c06ccb950406f2.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.ea90575354e4bfd9bc96.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.eab9bfd391a6d0be0989.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.f0119916c3a44ce38d34.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.f0f5673ac748d3f03c89.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.f510d03f0cfec58599a1.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.f6a25d424d53fd6f0d2e.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.f9bf7c10e3a1ede42f00.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ethereum/Contracts/Campaign.sol" beforeDir="false" afterPath="$PROJECT_DIR$/Ethereum/Contracts/Campaign.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ethereum/build/Campaign.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ethereum/build/Campaign.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ethereum/build/CampaignFactory.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ethereum/build/CampaignFactory.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ethereum/factory.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ethereum/factory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/Migrations.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/1_initial_migration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/development_instance_0_0b414225541200be8c03340e0e94c0a0/stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/development_instance_0_0b414225541200be8c03340e0e94c0a0/stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/package.json.hash" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/autodll-webpack-plugin/package.json.hash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/DevMiddlewareError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/fs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/reporter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/.bin/mime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/Mime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/src/README_js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/src/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/src/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/types/other.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/node_modules/mime/types/standard.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-middleware/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/client-overlay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/ansi-regex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/ansi-regex/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/ansi-regex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/ansi-regex/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/strip-ansi/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/strip-ansi/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/strip-ansi/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/node_modules/strip-ansi/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-hot-middleware/process-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/src/loglevel/LogLevel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/src/loglevel/MethodFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/src/loglevel/PrefixFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-log/src/loglevel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/join-arrays-smart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/join-arrays-smart.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/join-arrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/join-arrays.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/types.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/unique.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/lib/unique.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-merge/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/CachedSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/ConcatSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/LineToLineMappedSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/OriginalSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/PrefixSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/RawSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/ReplaceSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/Source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/SourceAndMapMixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/SourceMapSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/dist/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/source-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/node_modules/source-map/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-sources/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/bin/webpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/buildin/amd-define.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/buildin/amd-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/buildin/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/buildin/harmony-module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/buildin/module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/buildin/system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/WebpackOptions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/BannerPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/DllPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/DllReferencePlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/HashedModuleIdsPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/IgnorePlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/LoaderOptionsPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/ProgressPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/SourceMapDevToolPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/WatchIgnorePlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/debug/ProfilingPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/optimize/AggressiveSplittingPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/optimize/LimitChunkCountPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/optimize/MinChunkSizePlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/optimize/OccurrenceOrderChunkIdsPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/declarations/plugins/optimize/OccurrenceOrderModuleIdsPlugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/dev-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/emitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/log-apply-result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/only-dev-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/poll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/hot/signal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/APIPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/AmdMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/AsyncDependenciesBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/AsyncDependencyToInitialChunkError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/AutomaticPrefetchPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/BannerPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/BasicEvaluatedExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/CachePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/CaseSensitiveModulesWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ChunkGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ChunkRenderError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ChunkTemplate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/CommentCompilationWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/CompatibilityPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Compilation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Compiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ConcurrentCompilationError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ConstPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ContextExclusionPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ContextModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ContextModuleFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ContextReplacementPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DefinePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DelegatedModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DelegatedModuleFactoryPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DelegatedPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DependenciesBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DependenciesBlockVariable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Dependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DllEntryPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DllModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DllModuleFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DllPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DllReferencePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/DynamicEntryPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EntryModuleNotFoundError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EntryOptionPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Entrypoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EnvironmentPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ErrorHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EvalDevToolModulePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EvalDevToolModuleTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EvalSourceMapDevToolModuleTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/EvalSourceMapDevToolPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ExportPropertyMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ExtendedAPIPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ExternalModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ExternalModuleFactoryPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ExternalsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/FlagDependencyExportsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/FlagDependencyUsagePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/FlagInitialModulesAsUsedPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/FunctionModulePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/FunctionModuleTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/GraphHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/HarmonyLinkingError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/HashedModuleIdsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/HotModuleReplacement.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/HotModuleReplacementPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/HotUpdateChunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/HotUpdateChunkTemplate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/IgnorePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/JavascriptGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/JavascriptModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/JsonGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/JsonModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/JsonParser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/LibManifestPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/LibraryTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/LoaderOptionsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/LoaderTargetPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MainTemplate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MemoryOutputFileSystem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleBuildError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleDependencyError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleDependencyWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleFilenameHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleNotFoundError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleParseError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleReason.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleTemplate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ModuleWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MultiCompiler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MultiEntryPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MultiModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MultiModuleFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MultiStats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/MultiWatching.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NamedChunksPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NamedModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NoEmitOnErrorsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NoModeWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NodeStuffPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NormalModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NormalModuleFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NormalModuleReplacementPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/NullFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/OptionsApply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/OptionsDefaulter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ParserHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/PrefetchPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ProgressPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ProvidePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RawModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RecordIdsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RemovedPluginError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RequestShortener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RequireJsStuffPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/ResolverFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RuleSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/RuntimeTemplate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/SetVarMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/SingleEntryPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/SizeFormatHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/SourceMapDevToolModuleOptionsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/SourceMapDevToolPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/TemplatedPathPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/UmdMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/UnsupportedFeatureWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/UseStrictPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WarnCaseSensitiveModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WarnNoModeSetPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WatchIgnorePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/Watching.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WebpackError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WebpackOptionsApply.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WebpackOptionsDefaulter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/WebpackOptionsValidationError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/compareLocations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/debug/ProfilingPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDDefineDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDDefineDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireArrayDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireContextDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireDependenciesBlockParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/AMDRequireItemDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsRequireContextDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsRequireDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CommonJsRequireDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ConstDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependencyHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependencyTemplateAsId.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextDependencyTemplateAsRequireCall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ContextElementDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/CriticalDependencyWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DelegatedExportsDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DelegatedSourceDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DependencyReference.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/DllEntryDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyAcceptDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyAcceptImportDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyCompatibilityDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyDetectionParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportExpressionDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportHeaderDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportImportedSpecifierDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyExportSpecifierDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportSideEffectDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportSpecifierDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyInitDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyTopLevelThisParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportContextDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportDependenciesBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportEagerDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ImportWeakDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/JsonExportsDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LoaderDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LoaderPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModuleDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/LocalModulesHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleDependencyTemplateAsId.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleDependencyTemplateAsRequireId.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleHotAcceptDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/ModuleHotDeclineDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/MultiEntryDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/NullDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/PrefetchDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireContextDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireContextDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireContextPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureDependenciesBlockParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsureItemDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireEnsurePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireHeaderDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireIncludeDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireIncludeDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireIncludePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveContextDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveDependencyParserPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/RequireResolveHeaderDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/SingleEntryDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/SystemPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/UnsupportedDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/WebAssemblyExportImportedDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/WebAssemblyImportDependency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/WebpackMissingModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/dependencies/getFunctionExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/formatLocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeChunkTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeEnvironmentPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeHotUpdateChunkTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeMainTemplate.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeMainTemplateAsync.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeOutputFileSystem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeSourcePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeTargetPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/NodeWatchFileSystem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/node/ReadFileCompileWasmTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/AggressiveMergingPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/AggressiveSplittingPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/ChunkModuleIdRangePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/ConcatenatedModule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/EnsureChunkConditionsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/FlagIncludedChunksPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/LimitChunkCountPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/MergeDuplicateChunksPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/MinChunkSizePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/MinMaxSizeWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/ModuleConcatenationPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/NaturalChunkOrderPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/OccurrenceChunkOrderPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/OccurrenceModuleOrderPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/OccurrenceOrderPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/RemoveEmptyChunksPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/RemoveParentModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/RuntimeChunkPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/SideEffectsFlagPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/optimize/SplitChunksPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/performance/AssetsOverSizeLimitWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/performance/EntrypointsOverSizeLimitWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/performance/NoAsyncChunksWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/performance/SizeLimitsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/Queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/Semaphore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/SetHelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/SortableSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/StackedSetMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/TrackingSet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/cachedMerge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/createHash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/deterministicGrouping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/identifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/util/objectToMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/validateSchema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/UnsupportedWebAssemblyFeatureError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WasmFinalizeExportsPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WasmMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyInInitialChunkError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyJavascriptGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyModulesPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyParser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/wasm/WebAssemblyUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/FetchCompileWasmTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpChunkTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpExportMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpHotUpdateChunkTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpMainTemplate.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/JsonpTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/web/WebEnvironmentPlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webpack.web.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerChunkTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerMainTemplate.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerMainTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/lib/webworker/WebWorkerTemplatePlugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/src/ValidationError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/schema-utils/src/validateOptions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/WebpackOptions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/ajv.absolutePath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/BannerPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/DllPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/DllReferencePlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/HashedModuleIdsPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/IgnorePlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/LoaderOptionsPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/ProgressPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/SourceMapDevToolPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/debug/ProfilingPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/AggressiveSplittingPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/MinChunkSizePlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/OccurrenceOrderChunkIdsPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/schemas/plugins/optimize/OccurrenceOrderModuleIdsPlugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack/web_modules/node-libs-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/campaigns/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/campaigns/new.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/campaigns/requests/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/campaigns/requests/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/campaigns/requests/new.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/campaigns/requests/new.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/campaigns/show.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/campaigns/show.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
@@ -31,67 +656,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="50" column="73" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="73" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="66" column="60" selection-start-line="66" selection-start-column="60" selection-end-line="66" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/ContributeForm.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/campaigns/new.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+            <state relative-caret-position="586">
+              <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -100,10 +668,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/new.js">
+        <entry file="file://$PROJECT_DIR$/pages/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            <state relative-caret-position="327">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="37" column="14" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/campaigns/new.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1184">
+              <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -128,12 +747,15 @@
       <find>contribute!</find>
       <find>contribute</find>
       <find>ether</find>
-      <find>a</find>
       <find>amount to con</find>
       <find>minimum contribution</find>
-      <find>minimu</find>
       <find>value in e</find>
+      <find>a</find>
       <find>amount</find>
+      <find>createCampaign</find>
+      <find>minimu</find>
+      <find>title</find>
+      <find>CampaignIndex</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -146,7 +768,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Ethereum/KickstarterCampaign.sol" />
-        <option value="$PROJECT_DIR$/Ethereum/Contracts/Campaign.sol" />
         <option value="$PROJECT_DIR$/Ethereum/compile.js" />
         <option value="$PROJECT_DIR$/tests/test_campaign.js" />
         <option value="$PROJECT_DIR$/Ethereum/campaign.js" />
@@ -154,25 +775,26 @@
         <option value="$PROJECT_DIR$/truffle-config.js" />
         <option value="$PROJECT_DIR$/Ethereum/build/CampaignFactory.json" />
         <option value="$PROJECT_DIR$/Ethereum/web3.js" />
-        <option value="$PROJECT_DIR$/Ethereum/factory.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/components/Header.js" />
         <option value="$PROJECT_DIR$/components/RequestRow.js" />
         <option value="$PROJECT_DIR$/Ethereum/deploy.js" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pages/index.js" />
         <option value="$PROJECT_DIR$/pages/campaigns/requests/index.js" />
-        <option value="$PROJECT_DIR$/pages/campaigns/show.js" />
         <option value="$PROJECT_DIR$/components/ContributeForm.js" />
-        <option value="$PROJECT_DIR$/pages/campaigns/new.js" />
         <option value="$PROJECT_DIR$/pages/campaigns/requests/new.js" />
+        <option value="$PROJECT_DIR$/pages/campaigns/show.js" />
+        <option value="$PROJECT_DIR$/pages/campaigns/new.js" />
+        <option value="$PROJECT_DIR$/Ethereum/Contracts/Campaign.sol" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Ethereum/factory.js" />
+        <option value="$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.48bdd02b04d8d82275b1.hot-update.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/pages/index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="734" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -190,18 +812,7 @@
             <path>
               <item name="blockchainkickstarter" type="b2602c69:ProjectViewProjectNode" />
               <item name="blockchainkickstarter" type="462c0819:PsiDirectoryNode" />
-              <item name="contracts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blockchainkickstarter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blockchainkickstarter" type="462c0819:PsiDirectoryNode" />
-              <item name="Ethereum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blockchainkickstarter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blockchainkickstarter" type="462c0819:PsiDirectoryNode" />
-              <item name="Ethereum" type="462c0819:PsiDirectoryNode" />
-              <item name="Contracts" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blockchainkickstarter" type="b2602c69:ProjectViewProjectNode" />
@@ -236,6 +847,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v11.11.0/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -292,12 +904,13 @@
       <option name="presentableId" value="Default" />
       <updated>1553374392771</updated>
       <workItem from="1553374395363" duration="543000" />
-      <workItem from="1553378203373" duration="24729000" />
+      <workItem from="1553378203373" duration="36683000" />
+      <workItem from="1553465728210" duration="2065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25272000" />
+    <option name="totallyTimeSpent" value="39291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -307,7 +920,6 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28947368" />
@@ -317,8 +929,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119144" side_tool="true" visible="true" weight="0.041551247" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4988086" visible="true" weight="0.041551247" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,20 +941,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/web3-eth-contract/types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/web3-eth/types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/web3-eth-contract/types/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/web3-eth/types/index.d.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/web3/types.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -349,13 +950,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/truffle-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/truffle-config.js" />
     <entry file="file://$PROJECT_DIR$/test/test_campaign.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -363,57 +958,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ADDRESS">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/web3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/factory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/compile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ADDRESS" />
     <entry file="file://$PROJECT_DIR$/components/Layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -433,10 +978,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/campaign.js">
+    <entry file="file://$PROJECT_DIR$/.next/server/static/development/pages/campaigns/show.js" />
+    <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/new.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="-810">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="42" selection-start-line="6" selection-end-line="6" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ethereum/web3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ethereum/factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -450,88 +1023,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/build/Campaign.json">
+    <entry file="file://$PROJECT_DIR$/Ethereum/compile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4818">
-          <caret line="217" column="6" selection-start-line="217" selection-start-column="3" selection-end-line="217" selection-end-column="6" />
+        <state relative-caret-position="437">
+          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/build/CampaignFactory.json">
+    <entry file="file://$PROJECT_DIR$/Ethereum/campaign.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1334">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum/Contracts/Campaign.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.next/server/static/development/pages/campaigns/show.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="87" column="53" selection-start-line="87" selection-start-column="53" selection-end-line="87" selection-end-column="53" />
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="66" column="60" selection-start-line="66" selection-start-column="60" selection-end-line="66" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="50" column="73" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/ContributeForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol" />
+    <entry file="file://$PROJECT_DIR$/Ethereum/build/CampaignFactory.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ethereum/build/Campaign.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="149" column="28" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ethereum/Contracts/Campaign.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/1_initial_migration.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/campaigns/show.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="14" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -540,18 +1107,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/campaigns/new.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+        <state relative-caret-position="1184">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/campaigns/requests/new.js">
+    <entry file="file://$PROJECT_DIR$/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="70" column="22" lean-forward="true" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        <state relative-caret-position="184">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/static/webpack/static/development/pages/index.js.48bdd02b04d8d82275b1.hot-update.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="89" column="19" lean-forward="true" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

@@ -14,16 +14,18 @@ class CampaignShow extends Component {
 
     return {
       address: props.query.address,
-      minimumContribution: summary[0],
-      balance: summary[1],
-      requestsCount: summary[2],
-      approversCount: summary[3],
-      manager: summary[4]
+      campaignTitle: summary[0],
+      minimumContribution: summary[1],
+      balance: summary[2],
+      requestsCount: summary[3],
+      approversCount: summary[4],
+      manager: summary[5]
     };
   }
 
   renderCards() {
     const {
+      campaignTitle,
       balance,
       manager,
       minimumContribution,
@@ -32,6 +34,13 @@ class CampaignShow extends Component {
     } = this.props;
 
     const items = [
+      {
+        header: 'Title of Campaign',
+        meta: campaignTitle,
+        description:
+          'The name assigned to this campaign',
+        style: { overflowWrap: 'break-word' }
+      },
       {
         header: 'Address of Manager',
         meta: manager,

@@ -3,18 +3,26 @@ import { Card, Button } from 'semantic-ui-react';
 import factory from '../Ethereum/factory';
 import Layout from '../components/Layout';
 import { Link } from '../routes';
+import Campaign from "../Ethereum/campaign";
 
 class CampaignIndex extends Component {
-  static async getInitialProps() {
-    const campaigns = await factory.methods.getDeployedCampaigns().call();
 
-    return { campaigns };
+  static async getInitialProps() {
+    let campaigns = {};
+    const addresses = await factory.methods.getDeployedCampaigns().call();
+    for (let address of addresses) {
+      const campaign = await Campaign(address);
+      campaigns[address] = await campaign.methods.campaignTitle().call();
+    }
+    return { campaigns, addresses };
   }
 
   renderCampaigns() {
-    const items = this.props.campaigns.map(address => {
+    const items = this.props.addresses.map(address => {
+      let header = this.props.campaigns[address];
       return {
-        header: address,
+        header: header,
+        meta: address,
         color: 'green',
         description: (
           <Link route={`/campaigns/${address}`}>
@@ -24,9 +32,9 @@ class CampaignIndex extends Component {
         fluid: true
       };
     });
-
     return <Card.Group items={items} />;
   }
+
 
   render() {
     return (
