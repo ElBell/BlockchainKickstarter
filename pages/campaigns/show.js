@@ -71,7 +71,7 @@ class CampaignShow extends Component {
   render() {
     return (
       <Layout>
-        <h3>Campaign Show</h3>
+        <h3>Campaign Details</h3>
         <Grid>
           <Grid.Row>
             <Grid.Column width={10}>{this.renderCards()}</Grid.Column>
@@ -91,6 +91,13 @@ class CampaignShow extends Component {
             </Grid.Column>
           </Grid.Row>
         </Grid>
+        <style jsx global>{`
+        body {
+        background: #000;
+        font: 11px menlo;
+        color: #fff;
+      }
+    `}</style>
       </Layout>
     );
   }

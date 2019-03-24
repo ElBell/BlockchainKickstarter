@@ -59,6 +59,7 @@ class RequestNew extends Component {
             />
           </Form.Field>
 
+
           <Form.Field>
             <label>Value in Ether</label>
             <Input
@@ -81,6 +82,13 @@ class RequestNew extends Component {
             Create!
           </Button>
         </Form>
+        <style jsx global>{`
+        body {
+        background: #000;
+        font: 11px menlo;
+        color: #fff;
+      }
+    `}</style>
       </Layout>
     );
   }

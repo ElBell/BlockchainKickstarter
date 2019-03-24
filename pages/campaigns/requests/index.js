@@ -65,6 +65,13 @@ class RequestIndex extends Component {
           <Body>{this.renderRows()}</Body>
         </Table>
         <div>Found {this.props.requestCount} requests.</div>
+        <style jsx global>{`
+        body {
+        background: #000;
+        font: 11px menlo;
+        color: #fff;
+      }
+    `}</style>
       </Layout>
     );
   }

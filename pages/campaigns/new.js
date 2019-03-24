@@ -55,6 +55,13 @@ class CampaignNew extends Component {
             Create!
           </Button>
         </Form>
+        <style jsx global>{`
+        body {
+        background: #000;
+        font: 11px menlo;
+        color: #fff;
+      }
+    `}</style>
       </Layout>
     );
   }

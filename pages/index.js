@@ -15,6 +15,7 @@ class CampaignIndex extends Component {
     const items = this.props.campaigns.map(address => {
       return {
         header: address,
+        color: 'green',
         description: (
           <Link route={`/campaigns/${address}`}>
             <a>View Campaign</a>
@@ -30,7 +31,7 @@ class CampaignIndex extends Component {
   render() {
     return (
       <Layout>
-        <div>
+        <div style={{ color: 'green' }}>
           <h3>Open Campaigns</h3>
 
           <Link route="/campaigns/new">
@@ -43,10 +44,17 @@ class CampaignIndex extends Component {
               />
             </a>
           </Link>
-
           {this.renderCampaigns()}
         </div>
+        <style jsx global>{`
+        body {
+        background: #000;
+        font: 11px menlo;
+        color: #fff;
+      }
+    `}</style>
       </Layout>
+
     );
   }
 }
